@@ -1,5 +1,5 @@
 <?php
 date_default_timezone_set('UTC');
 echo date(DATE_RFC822);
-echo "Àðèñêèí Íèêîëàé.";
+echo "Ð•ÑÑŒÐºÐ¸Ð½ Ð”Ð¼Ð¸Ñ‚Ñ€Ð¸Ð¹";
 ?>
