@@ -1,0 +1,20 @@
+{
+    "name": "DEskin/task05",
+    "autoload": {
+        "psr-4": {
+            "DEskin\\Task05\\": [
+                "src/",
+                "tests/Unit/"
+            ]
+        },
+        "files": ["src/Test.php"]
+    },
+    "authors": [{
+        "name": "DEskin",
+        "email": "eskin.diman@mail.ru"
+    }],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "squizlabs/php_codesniffer": "^3.6"
+    }
+}
